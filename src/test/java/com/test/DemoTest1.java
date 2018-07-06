@@ -1,6 +1,5 @@
 
-/*********************author 
-             bharat kumar*************/
+//chari
 package com.test;
 
 import org.testng.Assert;
